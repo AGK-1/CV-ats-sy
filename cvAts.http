@@ -1,0 +1,6 @@
+@cvAts_HostAddress = http://localhost:5062
+
+GET {{cvAts_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
